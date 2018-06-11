@@ -1,0 +1,10 @@
+1: SimilarOfferName(A, B) -> SimilarOffer(A, B) ^2
+1: SimilarImage(A, B) -> SimilarOffer(A, B) ^2
+
+1: SimilarOffer(A, B) -> SimilarOffer(B, A) ^2
+
+// Transitivity
+1: SimilarOffer(A, B) & SimilarOffer(B, C) -> SimilarOffer(A, C) ^2
+
+// Negative prior.
+0.004: !SimilarOffer(A, B) ^2

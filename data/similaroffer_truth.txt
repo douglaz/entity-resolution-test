@@ -1,0 +1,9 @@
+gigabyte_gtx_1060_6gb	gigabyte_gtx_1060_6gb	1.0
+gigabyte_gtx_1060_6gb	gigabyte_gtx_1060_3gb	0.8
+gigabyte_gtx_1060_6gb	msi_gtx_1060_6gb	0.6
+msi_gtx_1060_6gb	gigabyte_gtx_1060_3gb	0.5
+msi_gtx_1060_6gb	gigabyte_gtx_1060_6gb	0.6
+msi_gtx_1060_6gb	msi_gtx_1060_6gb	1.0
+gigabyte_gtx_1060_3gb	gigabyte_gtx_1060_6gb	0.8
+gigabyte_gtx_1060_3gb	gigabyte_gtx_1060_3gb	1.0
+gigabyte_gtx_1060_3gb	msi_gtx_1060_6gb	0.5

@@ -1,0 +1,14 @@
+predicates:
+   SimilarOfferName/2: closed
+   SimilarImage/2: closed
+   SimilarOffer/2: open
+
+observations:
+   SimilarOfferName: data/similar_offername.txt
+   SimilarImage: data/similar_image.txt
+
+targets:
+   SimilarOffer: data/similaroffer_targets.txt
+
+truth:
+   SimilarOffer: data/similaroffer_truth.txt
